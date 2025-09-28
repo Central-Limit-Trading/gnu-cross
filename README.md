@@ -23,6 +23,7 @@ This is a simple, lightweight project for making cross-compilation toolchain wit
 | mips-unknown-linux-gnusf      | 5.4.296 | 2.45     | 15.2.0 | 2.42  | N/A    |
 | mips64el-unknown-linux-gnu    | 5.4.296 | 2.45     | 15.2.0 | 2.42  | N/A    |
 | mips64-unknown-linux-gnu      | 5.4.296 | 2.45     | 15.2.0 | 2.42  | N/A    |
+| or1k-unknown-linux-gnu        | 5.4.296 | 2.45     | 15.2.0 | 2.42  | N/A    |
 | powerpcle-unknown-linux-gnu   | 5.4.296 | 2.45     | 15.2.0 | 2.42  | 2.40.4 |
 | powerpc-unknown-linux-gnu     | 5.4.296 | 2.45     | 15.2.0 | 2.42  | 2.40.4 |
 | powerpc64le-unknown-linux-gnu | 5.4.296 | 2.45     | 15.2.0 | 2.42  | 2.40.4 |
